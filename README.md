@@ -1,22 +1,27 @@
-# Transpro App - React Native 
+# StonksTracker - React Native 
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/39638948/195274905-b138fd6d-1301-4113-b9f3-f8effc378850.png" width="200" height="420" />
+  <img src="https://user-images.githubusercontent.com/39638948/195416296-bf09e387-a276-4800-b6d6-d548878c55a0.png" width="200" height="420" />
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/39638948/195274947-51297777-5033-4d91-b160-a7da8f98b2d8.png" width="200" height="420"/>
+  <img src="https://user-images.githubusercontent.com/39638948/195416345-d3e2a7d4-aedb-4502-bb21-4a0f561f9af7.png" width="200" height="420"/>
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/39638948/195274976-e4ee3cc0-cd91-4308-b90b-773b2d57f4a3.png" width="200" height="420" />
-  &nbsp;
-  <img src="https://user-images.githubusercontent.com/39638948/195275006-68ac27ef-7235-4f9a-913f-afd7eb22f06b.png" width="200" height="420" />
+  <img src="https://user-images.githubusercontent.com/39638948/195416452-1bce3b2a-f463-4d78-894a-274f9c83b3b5.png" width="200" height="420" />
 </p>
 
-- Developed a lightweight mobile app using trans-pro.net APIs to check out tranlation cases for clients
+- App Store: https://play.google.com/store/apps/details?id=com.jeffwang4321.StonksTracker
 
-- Reduced runtime by up to 50% compared to trans-pro.net's web app by bypassing redundent APIs
+- Developed a minimalistic stocks and crypto tracker app
 
-- Features: Fetch job details, translator details, Evaluations, and copy manuscript text
+### Features:
+- Calculates your holdings 💎🙌
 
-- Private Features: Account logins, fetch mail and assign cases
+- Creates stock summaries and details 🦍🍌
+
+- Track your stock activities 🚀📈
+
+- Customize your stocks, values, shares and prices
+
+- Easy to use 🤝💪
 
 ## How to Test
 
